@@ -17,5 +17,9 @@
 #define if(condition) if(condition) {
 #define endif }
 #define then
+#define is ==
+#define is_not !=
+#define and &&
+#define or ||
 
 #endif
